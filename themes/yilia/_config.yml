@@ -2,9 +2,9 @@
 menu:
   主页: /
   文章: /archives
-  随笔: /life
+  随笔: /categories/life
   读书: /douban 
-  相册: /instagram
+  #相册: /instagram
 
 # SubNav
 subnav:
@@ -30,7 +30,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: ""
+avatar: "/img/author.jpg"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
