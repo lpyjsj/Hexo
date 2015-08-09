@@ -1,4 +1,4 @@
-title: java线程协作
+title: JAVA线程协作
 date: 2015-07-18 19:24:38
 updated: 2015-07-18 19:24:38
 tags: 线程协作
@@ -8,7 +8,7 @@ categories: JAVA并发
 ###协作方式
 *  基于对象的内置锁,在同步方法或同步块中使用wait(),notify(),notifyAll()
 *  Lock配合Condition对象的await(),signal(),signalAll()
-
+<!--more-->
 下面的例子模拟多线程环境下的存款取款业务
 
 ####1.第一种方式实现

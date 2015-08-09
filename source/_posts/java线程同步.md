@@ -1,4 +1,4 @@
-title: java线程同步
+title: JAVA线程同步
 date: 2015-07-18 19:45:34
 updated: 2015-07-18 19:45:34
 tags: 线程同步
@@ -7,7 +7,7 @@ categories: JAVA并发
 ###同步的两种方式
 1. synchronized关键字同步
 2. 可重入锁ReentrantLock同步
-
+<!--more-->
 下面的例子分别使用两种方式实现同步
 
 ```
